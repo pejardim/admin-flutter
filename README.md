@@ -1,6 +1,6 @@
 # admin
 
-A new Flutter project.
+A layout flutter project desired to provide some guidelines to develop a admin control unit for ERP api's.
 
 ## Getting Started
 
